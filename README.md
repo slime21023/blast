@@ -1,4 +1,4 @@
-# Blast - High Performance Static File Server for Bun
+# Blast - Lightweight Static File Server for Bun
 
 Blast is a lightweight static file server built specifically for the Bun JavaScript runtime.
 
